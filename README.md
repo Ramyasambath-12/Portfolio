@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramyasambath-12
-- 👀 I’m interested Front end Development 
+- 👀 I’m interested in Front end Development 
 - 🌱 I’m currently going through Full Stack Development and stuffs
 - 📫 How to reach me www.linkedin.com/in/ramya-s-955193283
 
